@@ -12,8 +12,8 @@ For all integers between 1 and 99 (include both):
 class Fizz_Buzz:
     "Class to implement FizzBuzz for multiples of 3 and 5"
 
-    def fizzbuzz(max_num):
-        "This method implements FizzBuzz"
+    def fizzbuzz(self, max_num):
+        #"This method implements FizzBuzz"
         
         # adding some redundant declarations on purpose
         # we will make our script 'tighter' in one of coming exercises
